@@ -1,5 +1,5 @@
 # Auditory-Blacklisting
-This script will play an annoying sound if you have recently browsed a url containing a given string. For reasons covered in the about section, the code is currently set up to play an airhorn if you browse linkedin on chrome at all. 
+This script will play an annoying sound if you have recently browsed a url containing a given string. For reasons covered in the about section, the code is currently set up to play an airhorn if you have browsed LinkeIin on Chrome.
 
 ## About
 
